@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435952200576",
+    "project_id": "fedupmini",
+    "storage_bucket": "fedupmini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435952200576:android:88f834fc3f396e61f7ef65",
+        "android_client_info": {
+          "package_name": "com.example.fedupmini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQjwS7N4Zyjd7b-s8mYd4Ngstuh3paJNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
